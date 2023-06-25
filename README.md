@@ -44,4 +44,4 @@ python ./backend/main.py
 
 Пример файла можно найти в oracul\backend\files\test_shrinked.csv
 
-Видео с демонстрацией решения можете посмотреть [здесь](link).
+Видео с демонстрацией решения можете посмотреть [здесь](https://disk.yandex.ru/d/-GxHA0RTZsguxQ).
