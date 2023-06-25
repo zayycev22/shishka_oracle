@@ -21,12 +21,10 @@ const TableCsv = (props) => {
                             sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
                         >
                             <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF", background: "#272727"}}>{row[1]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}} >{row[5]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[17]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[6]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[7]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[11]}</TableCell>
-                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[9]}</TableCell>
+                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}} >{row[2]}</TableCell>
+                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[3]}</TableCell>
+                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[4]}</TableCell>
+                            <TableCell align={index ? "right" : "center"} style={{color: "#FFFFFF",background: "#272727"}}>{row[row.length-1]}</TableCell>
                         </TableRow>
                     ))}
                 </TableBody>
