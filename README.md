@@ -1,6 +1,6 @@
 # Департамент строительства города Москвы
-> Ссылка на интерфейс: ...
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40">
@@ -44,4 +44,4 @@ python ./backend/main.py
 
 Пример файла можно найти в oracul\backend\files\test_shrinked.csv
 
-Видео с демонстрацией решения можете посмотреть [здесь](https://disk.yandex.ru/d/-GxHA0RTZsguxQ).
+Видео с демонстрацией решения можете посмотреть [здесь](link).
