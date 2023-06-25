@@ -22,7 +22,7 @@ const FileUpload = (props) => {
 
     return (
         <div className={classes.container}>
-            <p className={classes.title}>Классификация обращений</p>
+            <p className={classes.title}>Предсказание срока сдачи обьектов</p>
             <div className={classes.sendContainer}>
                 <div className={classes.fileNameContainer}>{filename || "выберите файл для отправки"}</div>
                 <Button

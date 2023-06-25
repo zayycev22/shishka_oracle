@@ -4,6 +4,7 @@ import logo from "./images/logo.svg"
 import image1 from "./images/image1.svg"
 import image2 from "./images/image2.svg"
 import image3 from "./images/image3.svg"
+import image4 from "./images/DepStroyLogo.svg"
 import fon from "../src/images/svg_fon.svg"
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
                 <img className={"image"} src={image1}/>
                 <img className={"image"} src={image2}/>
                 <img className={"image"} src={image3}/>
+                <img className={"image"} src={image4}/>
             </footer>
         </div>
     );

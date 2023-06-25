@@ -14,7 +14,6 @@ const DataScreen = (props) => {
             let data = props.data
             data = data.split("\n")
             let arrayOfArrays = data.map(str => str.split(','));
-            arrayOfArrays.splice(11, 1)
             setContent(arrayOfArrays)
         }
     }, [])
