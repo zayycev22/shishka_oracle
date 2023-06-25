@@ -6,7 +6,6 @@ import numpy as np
 from tqdm import tqdm
 import pickle
 import datetime
-import sklearn as s
 warnings.filterwarnings('ignore')
 
 
